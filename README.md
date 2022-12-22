@@ -24,6 +24,6 @@ direnv allow
 # install packages
 poetry add django
 
-# creating the project
+# create project
 poetry run django-admin startproject django_tutorial .
 ```
