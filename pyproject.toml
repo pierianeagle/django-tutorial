@@ -2,7 +2,7 @@
 name = "django-tutorial"
 version = "0.1.0"
 description = ""
-authors = ["alpal <<>>"]
+authors = ["alpal"]
 readme = "README.md"
 packages = [{include = "django_tutorial"}]
 
