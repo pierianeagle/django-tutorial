@@ -2,9 +2,10 @@
 name = "django-tutorial"
 version = "0.1.0"
 description = ""
+license = "MIT"
 authors = ["alpal"]
 readme = "README.md"
-packages = [{include = "django_tutorial"}]
+packages = [{include = "polls"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
