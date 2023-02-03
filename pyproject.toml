@@ -9,7 +9,7 @@ packages = [{include = "polls"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-django = "^4.1.4"
+django = "^4.1.6"
 
 
 [build-system]
